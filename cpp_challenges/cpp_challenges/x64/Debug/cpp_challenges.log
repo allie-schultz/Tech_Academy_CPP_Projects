@@ -1,0 +1,5 @@
+﻿  MyClass.cpp
+  cpp_challenges.cpp
+C:\Users\lukam\Documents\GitHub\Tech_Academy_CPP_Projects\cpp_challenges\cpp_challenges\cpp_challenges.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  cpp_challenges.vcxproj -> C:\Users\lukam\Documents\GitHub\Tech_Academy_CPP_Projects\cpp_challenges\x64\Debug\cpp_challenges.exe
