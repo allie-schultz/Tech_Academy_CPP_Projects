@@ -1,0 +1,17 @@
+﻿  Circle.cpp
+C:\Users\lukam\Documents\GitHub\Tech_Academy_CPP_Projects\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment\Circle.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Circle.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+  ClassChallengeSubmissionAssignment.cpp
+C:\Users\lukam\Documents\GitHub\Tech_Academy_CPP_Projects\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment\Rectangle.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ClassChallengeSubmissionAssignment.cpp')
+  
+C:\Users\lukam\Documents\GitHub\Tech_Academy_CPP_Projects\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment\Triangle.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ClassChallengeSubmissionAssignment.cpp')
+  
+C:\Users\lukam\Documents\GitHub\Tech_Academy_CPP_Projects\ClassChallengeSubmissionAssignment\ClassChallengeSubmissionAssignment\Circle.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ClassChallengeSubmissionAssignment.cpp')
+  
+  Generating Code...
+  ClassChallengeSubmissionAssignment.vcxproj -> C:\Users\lukam\Documents\GitHub\Tech_Academy_CPP_Projects\ClassChallengeSubmissionAssignment\x64\Debug\ClassChallengeSubmissionAssignment.exe
